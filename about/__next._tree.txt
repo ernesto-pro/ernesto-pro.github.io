@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1zmdbx47wvfvx.css","style"]
+:HL["/_next/static/chunks/0ch3vab9j57hg.css","style"]
 :HL["/_next/static/chunks/0xh8it96m582j.css","style"]
 :HL["/_next/static/media/ABCRepro_Bold-s.p.2p8gg670h2ssv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ABCRepro_Regular-s.p.1629-hp_rqa2q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,6 +6,7 @@
 :HL["/_next/static/media/BodoniModa_Regular-s.p.1cxqz_-4mr065.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/3gi-ewyqh2od4.css","style"]
 :HL["/_next/static/chunks/0sqjs-n7qvezk.css","style"]
+:HL["/images/chef-booth-800.jpg","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/images/chef-booth-480.avif 480w, /images/chef-booth-800.avif 800w, /images/chef-booth-1100.avif 1100w, /images/chef-booth-1200.avif 1200w, /images/chef-booth-1600.avif 1600w, /images/chef-booth-2000.avif 2000w","imageSizes":"100vw"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":64,"c":"$Q2"}]]
-0:{"b":"xNEeubvL31b-1VtZu0nc8","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"Yn4XyMsnwgAnljDpVt9ja","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

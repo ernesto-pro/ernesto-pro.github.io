@@ -1,0 +1,2 @@
+# Canonical host + trailing-slash safety net for Netlify-style hosts.
+https://mikacoralgables.com/*  https://www.mikacoralgables.com/:splat  301!

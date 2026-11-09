@@ -1,0 +1,23 @@
+# Static asset caching for hosts that read the Netlify/Cloudflare _headers file
+# (GitHub Pages ignores it; the production CDN should mirror these rules).
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/mika-seal.png
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/robots.txt
+  Cache-Control:public, max-age=3600
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600
