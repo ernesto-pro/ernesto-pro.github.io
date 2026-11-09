@@ -1,0 +1,458 @@
+# MIKA Coral Gables — full machine-readable profile
+
+> MIKA is Chef Michael White's Coastal Italian restaurant at The Plaza Coral Gables in Miami, Florida. Opened December 12, 2024. Handmade pasta, crudo and caviar, whole fish, dry-aged steaks, a 1,700-bottle cellar, and a Mediterranean dining room by Bishop Design.
+
+Last updated: November 2026
+Canonical site: https://www.mikacoralgables.com/
+
+## Identity
+
+- Name: MIKA Coral Gables
+- Alternate name: MIKA
+- Cuisine: Coastal Italian, Mediterranean, seafood
+- Chef & owner: Michael White
+- Opened: 2024-12-12
+- Price range: $$$$
+- Payment: credit card, cash
+- Reservations: yes (OpenTable, Resy, phone)
+- Instagram: @mikacoralgables (15.1K followers)
+- Website: https://www.mikacoralgables.com/
+
+## Chef Michael White
+
+- Full name: Michael John White
+- Born: Beloit, Wisconsin, United States
+- Education: Kendall College (Kendall Culinary Institute), Chicago, 1989
+- Training: Ristorante San Domenico, Imola, Italy, seven years under Valentino Marcattilii; stages in Paris and the South of France
+- Cuisine: Coastal Italian, Mediterranean, seafood, handmade pasta
+- Role: Chef & Owner, MIKA Coral Gables
+- Chef page: https://www.mikacoralgables.com/chef/
+- Instagram: https://www.instagram.com/chefbianco/
+- Wikipedia: https://en.wikipedia.org/wiki/Michael_White_(chef)
+- James Beard Foundation: https://archive.jamesbeard.org/index.php/chef/michael-white
+
+### Career timeline
+
+- 1989: Enrolls at Kendall College in Chicago.
+- 1990s: Seven years at Ristorante San Domenico in Imola, Italy, with stages in Paris and the South of France.
+- 2001: Chef de cuisine at Spiaggia, Chicago.
+- 2002: Executive chef of Fiamma Osteria, New York; Michelin star in 2006.
+- 2006: Publishes _Fiamma: The Essence of Contemporary Italian Cooking_.
+- 2007: Partners with Ahmass Fakahany; the Altamarea Group opens Due Terre and Due Mari in New Jersey, followed by Convivio and Alto.
+- 2009: Opens Marea on Central Park South in New York.
+- 2010: Opens Ai Fiori at The Langham; Marea wins the James Beard Award for Best New Restaurant.
+- 2013: Publishes _Classico e Moderno_ with Andrew Friedman; Costata and Ristorante Morini join the group.
+- 2015: Opens Vaucluse on the Upper East Side.
+- 2021: Leaves the Altamarea Group.
+- 2022: Reopens The Lambs Club in New York as executive chef.
+- 2023: Opens Paranza at Atlantis Paradise Island, Bahamas.
+- 2024: Opens MIKA in Coral Gables on December 12; opens Santi in New York with BBianco.
+- 2025: Opens Levant at La Concha Resort in San Juan, Puerto Rico.
+- 2026: Opens Lions Den at The Stoneleigh in Dallas.
+
+### Awards and recognition
+
+- Six Michelin stars earned across his New York restaurants, including two at Marea and one at Ai Fiori.
+- Five Michelin stars held simultaneously at his New York peak.
+- James Beard Award for Best New Restaurant, 2010 — Marea.
+- James Beard nominee for Best Chef: New York, 2010–2014.
+- Marea: three stars from The New York Times and membership in Relais & Châteaux.
+- Ai Fiori: one Michelin star and three stars from The New York Times.
+
+### Cookbooks
+
+- _Fiamma: The Essence of Contemporary Italian Cooking_ (2006)
+- _Classico e Moderno: Essential Italian Cooking_ (2013, with Andrew Friedman)
+
+### Philosophy
+
+- "The hallmark of Italian food is its simplicity. Keep it simple and let the ingredients shine."
+- "Truffles and blue jeans. Come as you are." — his shorthand for MIKA: fine ingredients without formality.
+- Pasta is made by hand in house every day; the kitchen is a place to teach and mentor.
+
+### Michael White at MIKA
+
+White opened MIKA on December 12, 2024 at The Plaza Coral Gables with partner Alex Pirez of Mocca Group and operator Matt Safchik. It is his first stand-alone restaurant in Florida. The name MIKA is an Italian nickname for Michael and also the name of Pirez's daughter. White's mother is from Fort Pierce, Florida, and he has deep ties to South Florida.
+
+MIKA's menu is Coastal Italian and Mediterranean, with crudo, handmade pasta, whole fish, veal and dry-aged steaks. The kitchen uses paprika oil, chorizo and feta alongside Key West shrimp and stone crab. The cellar holds about 1,700 bottles, with Italian, French, California and Greek wines. The Marea classic — fusilli with red wine braised octopus and bone marrow ragu — is on the dinner menu.
+
+### Signature dishes at MIKA
+
+- Spaghetti ($73): blue crab, Siberian sturgeon caviar, lemon butter.
+- Fusilli ($58): red wine braised octopus, bone marrow ragu — the Marea classic.
+- Lobster Risotto ($79): 1.5 lb Maine lobster, aged carnaroli, coral butter, lemon, basil.
+- Veal Parmigiana ($96): bone-in chop, stracciatella, pomodoro, Parmigiano-Reggiano.
+- Grilled Octopus ($32): garlic aioli, piquillo, chorizo vinaigrette.
+- Crudo Misto ($76): hamachi, tuna, salmon, lemon caper vinaigrette, orange, caviar.
+
+
+
+## Contact and location
+
+- Address: 3007 Ponce de Leon Blvd, Coral Gables, FL 33134, United States
+- Location: The Plaza Coral Gables, Ponce de Leon Blvd near Malaga Avenue
+- Coordinates: 25.745099, -80.258146
+- Phone: +1 305 404 2200
+- Email: hello@mikacoralgables.com
+- Contact form: https://www.mikacoralgables.com/contact/ (reservations, private events, press, general questions)
+- Google Maps: https://maps.google.com/?cid=8745443722349433336
+- Directions: https://www.google.com/maps/dir/?api=1&destination=MIKA+3007+Ponce+de+Leon+Blvd+Coral+Gables+FL+33134
+- Valet: available at The Plaza
+
+## Hours (America/New_York)
+
+- Lunch: Monday–Friday 11:30–15:00
+- Aperitivo: Monday–Friday 16:00–19:00, bar and lounge
+- Dinner: Monday–Thursday 17:30–22:00; Friday–Saturday 17:30–23:00; Sunday 17:00–20:30
+- Brunch: Sunday 12:00–16:00
+
+## Ratings
+
+- OpenTable: 4.8 / 5 from 40 reviews (food 4.8, service 4.7, ambience 4.7, value 4.4)
+- Resy: 4.8 / 5 from 3.3K ratings
+- Google: 4.7 / 5 from 662 reviews
+
+## Rooms and capacity
+
+- 100-seat main dining room
+- 36-seat private dining room, about 600 sq ft, with dedicated outdoor area
+- Bar and lounge with marble bar
+- 8,195 sq ft total at The Plaza Coral Gables
+- Temperature-controlled cellar of about 1,700 bottles
+- Design by Bishop Design; interiors feature plaster arches, olive trees, rattan pendants, caned chairs and amber velvet
+
+## Policies
+
+- Dress code: smart casual; no shorts, hats, tank tops, flip flops, or team/athletic attire
+- Corkage: up to two 750ml bottles per table, $75 per bottle
+- Service charge: 18% for parties of 10 or fewer, 23% for 11 or more
+- Reservations open 90 days ahead on Resy; OpenTable shows instant availability
+- Parties of 9+ are handled by the private dining team
+
+## Private events
+
+- Private dining room: 36 seated, 600 sq ft, dedicated outdoor area, marble bar
+- Main dining room buyout: 100 seated
+- Bar and lounge: receptions
+- Formats: seated dinners, receptions, corporate dinners, celebrations
+- Inquiries: +1 305 404 2200 or hello@mikacoralgables.com
+
+## Menus
+
+## Dinner
+
+Monday – Saturday from 5:30pm · Sunday from 5pm.
+
+### Crostini
+
+- Beef Tartare — $24 / raw: calabrian chili cream, pecorino, baguette
+- Pan Con Tomate — $12: fresh grated tomato, garlic, olive oil
+- Mediterranean Dips — $28: hummus, taramasalata, whipped spiced feta, grilled pita
+- Blue Crab Toast — $22: blue crab, lemon, antonius caviar, milk bread
+
+### Crudi
+
+- Antonius Caviar — $195 (5 Star) / $295 (6 Star) / raw: waffle, shallots, capers, egg mimosa, crème fraîche
+- Crudo Misto — $76 / raw: hamachi, tuna, salmon, lemon caper vinaigrette, orange, antonius caviar
+- Sea Scallop — $26 / raw: verjus, cucumber, capers, peperone crusco
+- Tuna & Caviar — $48 / raw: bluefin tuna, antonius caviar, lemon, japanese milk bread
+- Shrimp Cocktail — $28: green goddess dressing, cocktail sauce, lemon
+- Seabass Tartare — $29 / raw: calabrian chili, sicilian pistachio, grilled focaccia
+- Bluefin Tuna Carpaccio — $29 / raw: black truffle, salmoriglio, crispy sunchoke
+- Hamachi — $26 / raw: yuzu vinaigrette, grapes, crispy basil
+- Bluefin Tuna Aqua Pazza — $29 / raw: tomato, furikake, basil, smoked oil
+
+### Antipasti
+
+- Little Gem Caesar — $23 / raw: caesar vinaigrette, pecorino, spicy breadcrumbs
+- Lobster Burrata — $42 / raw: tomatoes, pickled eggplant, basil
+- Grilled Octopus — $32 / raw: garlic aioli, piquillo, chorizo vinaigrette
+- Fritto Misto — $27: calamari, Mexican white shrimp, baby kale, salsa arrabbiata
+- Wagyu Carpaccio — $32 / raw: brown butter vinaigrette, black truffle aioli, parmigiano-reggiano, wild arugula
+- Scampi — $42 / raw: grilled prawns, olive oil, breadcrumbs, lemon
+
+### Pasta & Risotto
+
+- Gnocchi — $36: ricotta gnocchi, san marzano pomodoro, basil
+- Vesuvio — $36: tomato and calabrian chili cream, pecorino, basil
+- Saffron Gnocchetti — $44: florida rock shrimp, blue crab, calabrian chili, lemon
+- Ravioli — $39: whole milk ricotta, spinach, san marzano pomodoro, parmesan butter
+- Black Truffle Casarecce — $47: prosciutto, radicchio, parmigiano-reggiano cream
+- Lobster Risotto — $79: 1.5 lb maine lobster, aged carnaroli rice, coral butter, lemon, basil
+- Tagliatelle — $46: ragu Bolognese, Parmigiano-reggiano
+- Mushroom Risotto — $39: marsala, mascarpone, pecorino
+- Spaghetti — $73: blue crab, siberian sturgeon caviar, lemon butter
+- Fusilli — $58: red wine braised octopus, bone marrow ragu
+
+### Secondi
+
+- Salmon — $42 / raw: sweet corn caponata, lardon, piquillo peppers
+- Dover Sole — $110: brown butter, lemon, Sicilian capers
+- Halibut — $68 / raw: siberian sturgeon caviar, clams, leeks, potato puree
+- Roast Chicken — $42: chicken skin gremolata, parsnip, pan jus
+- Branzino — $79: tail-on whole mediterranean seabass, salmoriglio, toasted breadcrumbs, lemon
+- Veal Parmigiana — $96: bone-in chop, stracciatella, pomodoro, parmigiano-reggiano
+
+### Bistecca
+
+- 8oz Black Angus Filet Mignon — $72 / raw: wild mushrooms, celeriac, parmigiano-reggiano
+- 24oz Dry Aged Prime Ribeye — $144: bone-in, porcini crust
+- 14oz Wagyu New York Strip — $122: snake river farms gold label, summer truffle, jus
+- 36oz Dry Aged Prime Fiorentina — $197: bone-in porterhouse, crispy potatoes, jus
+
+### Contorni
+
+- Arugula — $12: tomatoes, parmigiano-reggiano, lemon
+- Crispy Potatoes — $16: salsa verde, parmigiano-reggiano, chives
+- Grilled Asparagus — $16: pesto genovese, parmigiano-reggiano
+- Whipped Potato — $16: yukon golds, cultured butter
+- Wild Mushrooms — $16: maitake, crimini, marsala
+- Grilled Vegetables — $16: salmoriglio, herbs, lemon
+
+## Sunday Supper
+
+Sunday · Brunch until 4pm · Dinner from 5pm.
+
+### Brunch (served until 4pm)
+
+- Buttermilk Pancakes — $28: honey crisp apples, brown sugar cinnamon glaze, spiced mascarpone, apple sausage
+- Brûlée French Toast — $27: wild berry compote, whipped cream
+- Lobster Benedict — $39: brioche, poached egg, hollandaise, espelette, frisée salad
+- Croque Monsieur — $27: black forest ham, gruyère, béchamel, pain de mie, frisée salad
+- Spaghetti Carbonara — $38: guanciale, black pepper, pecorino, spring onions
+- Steak & Eggs — $48: prime skirt steak, soft scrambled eggs, black truffle, pecorino
+
+### Antipasti
+
+- Seabass Tartare — $29 / raw: calabrian chili, sicilian pistachio, grilled focaccia
+- Hamachi — $26 / raw: yuzu vinaigrette, grapes, crispy basil
+- Bluefin Tuna Carpaccio — $29 / raw: black truffle, salmoriglio, crispy sunchoke
+- Wagyu Carpaccio — $32 / raw: brown butter vinaigrette, black truffle aioli, parmigiano-reggiano, wild arugula
+- Little Gem Caesar — $23 / raw: caesar vinaigrette, pecorino, spicy breadcrumbs
+- Focaccia Panzanella — $23: focaccia croutons, bagna cauda, heirloom tomatoes, aged balsamic
+- Grilled Octopus — $32 / raw: garlic aioli, piquillo, chorizo vinaigrette
+- Lobster Burrata — $42 / raw: tomatoes, pickled eggplant, basil
+
+### Pasta
+
+- Gnocchi — $36: ricotta gnocchi, san marzano pomodoro, basil
+- Saffron Gnocchetti — $44: florida rock shrimp, blue crab, calabrian chili, lemon
+- Tagliatelle — $46: ragu Bolognese, Parmigiano-reggiano
+- Black Truffle Casarecce — $47: prosciutto, radicchio, parmigiano-reggiano cream
+
+### Secondi
+
+- Branzino — $79: tail-on whole mediterranean seabass, salmoriglio, toasted breadcrumbs, lemon
+- Salmon — $42 / raw: sweet corn caponata, lardon, piquillo peppers
+- Chicken Caesar Milanese — $28: crispy chicken breast, pecorino, lemon
+- 8oz Prime Burger — $28: dijonaise, american cheese, spanish onions, sesame bun
+- Roast Chicken — $42: chicken skin gremolata, parsnip, pan jus
+- 8oz Black Angus Filet Mignon — $72 / raw: wild mushrooms, celeriac, parmigiano-reggiano
+- 14oz Wagyu New York Strip — $122: snake river farms gold label, summer truffle, jus
+- Veal Parmigiana — $96: bone-in chop, stracciatella, pomodoro, parmigiano-reggiano
+
+### Contorni
+
+- French Fries — $12
+- Grilled Vegetables — $16: salmoriglio, herbs, lemon
+- Crispy Potatoes — $16: salsa verde, parmigiano-reggiano, chives
+
+## Lunch
+
+Monday – Friday · 11:30am – 3pm. Two-course prix fixe $42 · Three-course prix fixe $48.
+
+### APPETIZERS
+
+- Bluefin Tuna Carpaccio — +$6 supplement / raw: black truffle, salmoriglio, crispy sunchoke
+- Wagyu Beef Carpaccio — +$6 supplement / raw: brown butter vinaigrette, black truffle aioli, parmigiano-reggiano, wild arugula
+- Little Gem Caesar: caesar vinaigrette, pecorino, spicy breadcrumbs
+- Hamachi — raw: yuzu vinaigrette, grapes, crispy basil
+- Grilled Octopus — +$8 supplement: garlic aioli, piquillo, chorizo vinaigrette
+- Insalata Greca: kumato tomatoes, Persian cucumbers, red onion, barrel aged feta, wild oregano vinaigrette
+- Tuna Crudo — raw: sicilian eggplant caponata, caper leaves, pickled peppers, basil
+- Fritto Misto: calamari, Mexican white shrimp, baby kale, salsa arrabiatta
+- Insalata di Scarola: escarole, chicories, foglie di noce, hazelnuts, sherry brown butter vinaigrette
+- Burrata: peperonata, basil, grilled focaccia
+
+### ENTREES
+
+- Chicken Caesar Milanese: crispy chicken breast, romaine, pecorino, toasted breadcrumbs
+- Grilled Salmon: sweet corn caponata, lardon, piquillo peppers
+- Tagliatelle Bolognese: ragu bolognese, parmigiano-reggiano
+- Beef & Lamb Kofta: sumac onions, cucumber, tomato, tzatziki
+- Filet of Branzino: fregola sarda, zucchini, tomato conserva, piquillo pepper
+- Gnocchi Pomodoro: ricotta gnocchi, san marzano pomodoro, basil
+- 8oz. Prime Burger: dijonaise, yellow american cheese, spanish onions, sesame bun
+- Prime Skirt Steak — +$18 supplement: salsa verde, baby greens salad
+- Cavatelli: sweet fennel sausage sughetto, wild mushrooms, basil
+- Black Grouper Sandwich: crispy filet of wild grouper, lettuce, cornichon tartar, brioche bun
+- Risotto al Tartufo: parmigiano-reggiano, white truffle butter, fonduta
+- Rigatoni Carbonara: spring onions, pecorino
+
+### DESSERT
+
+- Limone Sundae: lemon verbena gelato, white chocolate, brown butter tuile
+- Torta Caprese: flourless dark chocolate cake, almond, zabaglione
+- Gelato: vanilla, chocolate, pistachio, toaster milk, or olive oil
+- Strawberries: marscapone cream, mint
+- Bomboloni: lemon ricotta donuts, gianduja chocolate sauce, vanilla anglaise
+
+### Sides
+
+- Grilled Vegetables — +$12 supplement: salmoriglio, herbs, lemon
+- Wild Mushrooms — +$12 supplement: marsala, sage
+- Crispy Potatoes — +$12 supplement: rosemary salt, pecorino, salsa verde
+- Heirloom Tomatoes — +$12 supplement: ice vinegar, basil, olive oil
+
+## Aperitivo Hour
+
+Monday – Friday · 4pm – 7pm · Bar & Lounge.
+
+### SMALL BITES
+
+- Blue Crab Toast — $22: blue crab, lemon, antonius caviar, milk bread
+- Beef Tartare Toast — $20 / raw: calabrian chili cream, pecorino, toasted baguette
+- Pan Con Tomate — $12: freshly grated tomato, garlic, olive oil
+- Little Gem Caesar — $18: caesar vinaigrette, pecorino, spicy breadcrumbs
+- Gnocchi Pomodoro — $22: ricotta gnocchi, san marzano pomodoro, basil
+- Vesuvio — $22: tomato and calabrian chili cream, pecorino, basil
+
+### COCKTAILS, WINE & BEER
+
+- Martini — $15
+- Margarita — $15
+- Spritz — $15: Aperol, Capari, St. Germain
+- Prosecco Valdobbiadene Superiore DOCG — $15
+- Elena Walch Pinot Grigio — $15
+- Ken Wright Willamette Valley Pinot Noir — $15
+- Peroni Nastro Azzuro — $5
+
+## Miami Spice
+
+August – October 2026 · Sunday – Thursday. Three-course prix fixe $65.
+
+### APPETIZERS
+
+- American Wagyu Beef Carpaccio — raw: Brown butter vinaigrette, black truffle aioli, parmigiano reggiano, wild arugula
+- Little Gem Caesar: caesar vinaigrette, pecorino, spicy breadcrumbs
+- Hamachi — raw: yuzu vinaigrette, grapes, crispy basil
+- Shrimp Gratinati: Calabrian chili butter, mollica, lemon
+- Polpette: Chuck, brisket & short rib meatball, pomodoro, whipped ricotta, basil
+
+### ENTREES
+
+- Vesuvio: Spicy vodka sauce, pecorino romano, calabrian chili
+- Pork Ragu: Braised pork shoulder, guanciale, robiolina di buffalo
+- Branzino Filet: Salmoriglio, baby spinach, cauliflower, lemon
+- Roast Chicken: Crispy chicken skin, gremolata, parsnip, pan jus
+- Steak Frites — +$14 supplement: Au poivre, pommes frites
+
+### DESSERT
+
+- Gelato: vanilla, chocolate, pistachio, toaster milk, or olive oil
+- Risolatte: Coconut milk rice pudding, tropical fruits, mango sorbet, basil
+- Basque Cheesecake: Pistachio, raspberry coulis, berries
+
+## Frequently asked questions
+
+### How do I reserve a table at MIKA?
+
+Book instantly on OpenTable, reserve on Resy up to 90 days ahead, or call +1 305 404 2200.
+
+### What is the dress code?
+
+Smart casual. Shorts, hats, tank tops, flip flops, and team or athletic attire are not permitted.
+
+### Can I bring my own wine?
+
+Up to two 750ml bottles of wine per table, with a $75 corkage fee per bottle.
+
+### Is there a service charge?
+
+An 18% service charge applies to parties of 10 or fewer, and 23% for parties of 11 or more.
+
+### Where do I park?
+
+Valet parking is available at The Plaza Coral Gables, 3007 Ponce de Leon Blvd.
+
+### Can I host a private event?
+
+Yes. The private dining room seats 36 in about 600 sq ft with a dedicated outdoor area. The 100-seat main dining room is available for buyouts.
+
+### What menus are available?
+
+Dinner, Lunch, Sunday Supper with brunch, Aperitivo Hour and the seasonal Miami Spice menu.
+
+### Who is the chef?
+
+Chef Michael White, a Michelin-starred chef with six Michelin stars across his career, a James Beard Award winner, and founder of Marea in New York.
+
+### When did MIKA open?
+
+December 12, 2024, at The Plaza Coral Gables.
+
+### What is Miami Spice at MIKA?
+
+A three-course prix fixe menu for $65, Sunday through Thursday, usually August through October.
+
+### Who is Michael White?
+
+Michael White is an American chef from Beloit, Wisconsin, known for Coastal Italian cooking and for Fiamma Osteria, Marea and Ai Fiori in New York. He earned six Michelin stars across his New York restaurants, won the 2010 James Beard Award for Best New Restaurant with Marea, and opened MIKA in Coral Gables on December 12, 2024.
+
+### Where is Michael White cooking now?
+
+He is Chef & Owner of MIKA in Coral Gables and is often in the kitchen. He also cooks at Santi in New York, Paranza at Atlantis Paradise Island and Levant in San Juan.
+
+### What should I order at MIKA?
+
+Start with the crudo, lobster burrata or grilled octopus. The spaghetti with blue crab and Siberian sturgeon caviar and the fusilli with octopus and bone marrow are the signatures, followed by whole branzino, lobster risotto or bone-in veal parmigiana.
+
+## Press
+
+- Resy, "The Essential Dishes of Mika, Chef Michael White's Ode to the French Riviera", Oct 19, 2026
+- Resy, "All About MIKA, Michael White's Debut Restaurant in Coral Gables", Feb 20, 2025
+- Time Out Miami, "This new Coral Gables restaurant is for Italian-food lovers who crave more than just pasta", Dec 16, 2024
+- Hospitality Design, "Bishop Design Channels Mediterranean Charm at MIKA", Feb 21, 2025
+- The Spaces, "This new Mediterranean restaurant in Miami has Michelin cred", Mar 5, 2025
+- Modern Luxury Miami, "Michelin-Starred Chef Michael White Opens MIKA, His First Stand-Alone Florida Restaurant", Apr 7, 2025
+
+## Photography
+
+- Evan Sung (food, courtesy of MIKA)
+- Daniel Zuliani (chef portrait and food, courtesy of MIKA)
+- Christian Gonzalez (food, courtesy of MIKA)
+- Pablo Enriquez / Bishop Design (interiors, courtesy of The Spaces)
+- Virginia Gil / Time Out Miami (crudo)
+- MIKA (chef portraits, dining room and dishes, 2026)
+- @mikacoralgables (Instagram)
+
+Full credits: https://www.mikacoralgables.com/credits/
+
+## Pages
+
+- Home: https://www.mikacoralgables.com/
+- Menu: https://www.mikacoralgables.com/menu/
+- Chef Michael White: https://www.mikacoralgables.com/chef/
+- Reservations: https://www.mikacoralgables.com/reservations/
+- The Story: https://www.mikacoralgables.com/about/
+- Gallery: https://www.mikacoralgables.com/gallery/
+- Private Events: https://www.mikacoralgables.com/private-events/
+- Contact: https://www.mikacoralgables.com/contact/ (reservations, private events, press and general questions)
+- Hours & Location: https://www.mikacoralgables.com/visit/
+- Press: https://www.mikacoralgables.com/press/
+- FAQ: https://www.mikacoralgables.com/faq/
+- Gift Cards: https://www.mikacoralgables.com/gift-cards/
+- Credits: https://www.mikacoralgables.com/credits/
+
+## Sources
+
+- https://www.mikacoralgables.com/
+- https://www.opentable.com/r/mika-coral-gables
+- https://resy.com/cities/miami-fl/venues/mika-fl
+- https://blog.resy.com/2025/02/mika-restaurant-coral-gables/
+- https://blog.resy.com/2026/10/mika-coral-gables-essential-dishes/
+- https://www.theadventuristmagazine.com/city-guides/miami/michael-white-opens-mika-in-coral-gables
+- https://www.miamiherald.com/news/local/community/miami-dade/coral-gables/article297314414.html
+- https://en.wikipedia.org/wiki/Michael_White_(chef)
+- https://archive.jamesbeard.org/index.php/chef/michael-white
+- https://www.instagram.com/mikacoralgables/
