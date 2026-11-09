@@ -1,32 +1,3 @@
-User-Agent: *
-Allow: /
-
-User-Agent: GPTBot
-Allow: /
-
-User-Agent: OAI-SearchBot
-Allow: /
-
-User-Agent: ChatGPT-User
-Allow: /
-
-User-Agent: ClaudeBot
-Allow: /
-
-User-Agent: Claude-Web
-Allow: /
-
-User-Agent: PerplexityBot
-Allow: /
-
-User-Agent: Google-Extended
-Allow: /
-
-User-Agent: Applebot-Extended
-Allow: /
-
-User-Agent: CCBot
-Allow: /
-
-Host: https://www.mikacoralgables.com
-Sitemap: https://www.mikacoralgables.com/sitemap.xml
+# Preview build — not for indexing. Production: https://www.mikacoralgables.com
+User-agent: *
+Disallow: /
