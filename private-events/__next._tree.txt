@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/0ch3vab9j57hg.css","style"]
-:HL["/_next/static/chunks/0xh8it96m582j.css","style"]
+:HL["/_next/static/chunks/1im9yqrsl10y8.css","style"]
 :HL["/_next/static/media/ABCRepro_Bold-s.p.2p8gg670h2ssv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ABCRepro_Regular-s.p.1629-hp_rqa2q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/BodoniModa_Italic-s.p.2f4f-0d4ygf2z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 :HL["/images/private-dining-800.jpg","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/images/private-dining-480.avif 480w, /images/private-dining-800.avif 800w, /images/private-dining-1100.avif 1100w, /images/private-dining-1200.avif 1200w, /images/private-dining-1347.avif 1347w","imageSizes":"100vw"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"private-events","h":64,"c":"$Q2"}]]
-0:{"b":"Yn4XyMsnwgAnljDpVt9ja","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"iLHkH07qmRy8LcTScE4m9","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
